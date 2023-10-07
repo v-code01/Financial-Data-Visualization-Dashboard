@@ -15,7 +15,7 @@ import requests
 
 def fetch_market_data():
     # Replace 'YOUR_API_KEY' with your actual Alpha Vantage API key
-    api_key = 'BCRSY8ALOYDAGTM4'
+    api_key = 'YOUR_API_KEY'
 
     # Define the parameters for the API request
     symbol = "AAPL"  # Example stock symbol (you can change this)
